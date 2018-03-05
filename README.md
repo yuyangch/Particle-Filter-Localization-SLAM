@@ -14,6 +14,6 @@ color dots are the landmark positions seen (both naive and fast slam landmarks a
 ![alt text](https://github.com/yuyangch/Particle-Filter-Localization-SLAM/blob/master/figure_2_turtlebot.png)
 
 Particle filter Localization result:
-![alt text](https://www.youtube.com/watch?v=LlDtm2JpKg0&t=677s
+![alt text](https://www.youtube.com/watch?v=LlDtm2JpKg0&t=677s)
 
 
